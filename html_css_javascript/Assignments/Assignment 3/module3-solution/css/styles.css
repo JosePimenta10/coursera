@@ -1,0 +1,16 @@
+/** HEADER **/
+#header-nav {
+  background-color: #999999;
+  border-radius: 0;
+  border: 0;
+}
+
+
+.navbar-brand h1 { /* Restaurant name */
+  font-family: Helvetica;
+  color: #1A1A1A;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
