@@ -1,0 +1,112 @@
+/** HEADER **/
+#header-nav {
+  background-color: #999999;
+  border-radius: 0;
+  border: 0;
+  border-bottom:  2px solid black;
+
+}
+
+
+.navbar-brand h1 {
+  font-family: Helvetica;
+  color: #1A1A1A;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+
+
+
+#button-css { 
+	border: 2px solid black;
+    background-color: transparent; 
+} 
+
+
+
+#button-css:focus{
+    outline:none !important;
+	border: 2px solid white !important;
+    background-color: transparent; 
+}
+
+#button-css:focus #button-css2 { 
+            background-image: url( 
+"data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 0.8)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E"); 
+        } 
+
+
+#button-css2 { 
+            background-image: url( 
+"data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0, 0, 0, 0.8)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E"); 
+        } 
+
+.list1 a{
+	color:black;
+}
+
+.list1 a:hover{
+	text-decoration: none;
+	color:#999999;
+}
+
+.list1{
+  border-right: 2px solid black;
+  border-left: 2px solid black;
+  border-bottom: 2px solid black;
+  background-color: white;
+  font-family: Helvetica;
+
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  width:100%;
+  margin-left: auto;
+  margin-right: auto;	
+  text-align: center;
+}
+
+
+
+
+#menu-title{
+	font-family: Helvetica;
+	font-weight: bold;
+	margin-top:25px;
+	margin-bottom: 35px;
+}
+
+
+.row{
+	padding-top: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
+
+
+.box{
+  border: 1px solid black;
+  background-color: grey;
+  font-family: Helvetica;
+  color: black;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  margin: 10px 10px 10px 10px;
+  width:100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2{
+	text-align: center;
+	font-weight: bold;
+}
